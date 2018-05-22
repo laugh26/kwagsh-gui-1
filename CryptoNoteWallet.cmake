@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "kwagsh-wallet")
+set(CN_CURRENCY_DISPLAY_NAME "KWAGSH")
+set(CN_CURRENCY_TICKER "KGH")
+set(CN_VERSION 1.1.3.0)
