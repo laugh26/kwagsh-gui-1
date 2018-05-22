@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KWAGSH-Wallet
+GenericName=KWAGSH-Wallet
+Name[uk]=KWAGSH-Wallet
+Name[de]=KWAGSH-Wallet
+Name[es]=KWAGSH-Wallet
+Comment=KWAGSH-Wallet
+Comment[uk]=KWAGSH-Wallet
+Comment[de]=KWAGSH-Wallet
+Comment[es]=KWAGSH-Wallet
+Exec=KWAGSH %U
+Terminal=false
+Type=Application
+Icon=KWAGSH
+MimeType=x-scheme-handler/KWAGSH;
+Categories=Office;Finance;
+Version=1.2.0
